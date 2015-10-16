@@ -13,7 +13,7 @@
 
 //fork from https://github.com/theckman/go-flock/blob/master/flock.go
 
-package lock
+package flock
 
 import (
 	"fmt"
