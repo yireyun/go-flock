@@ -1,4 +1,4 @@
-// +build dragonfly freebsd linux netbsd openbsd
+// +build darwin
 
 // Copyright 2015 Tim Heckman. All rights reserved.
 // Use of this source code is governed by the BSD 3-Clause
